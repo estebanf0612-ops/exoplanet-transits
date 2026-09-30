@@ -21,8 +21,6 @@ Open `exoplanet_transits.ipynb` and run all cells. The first run downloads about
 
 **Test mode:** set `USE_SIMULATED = True` in the first cell. The notebook then runs on a fake light curve with a planet of known size planted in it, and should recover the planted period and radius almost exactly. Running this first proves the code works before trusting it on real data.
 
----
-
 
 ---
 
